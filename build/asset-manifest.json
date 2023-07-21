@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e99f3ff9.css",
+    "main.js": "/static/js/main.144b18e7.js",
+    "static/media/people.jpg": "/static/media/people.127c6b93b1aeabfd4fa6.jpg",
+    "static/media/clg.jpg": "/static/media/clg.817c5f4bc46a7f728156.jpg",
+    "static/media/river.jpg": "/static/media/river.e3dd9f66c7a97a3b15a3.jpg",
+    "static/media/logo.png": "/static/media/logo.779f693799c1224e9392.png",
+    "static/media/CanelaDeck-Bold-Trial.otf": "/static/media/CanelaDeck-Bold-Trial.c816cb4e10800f09b8e3.otf",
+    "static/media/CanelaDeck-MediumItalic-Trial.otf": "/static/media/CanelaDeck-MediumItalic-Trial.bf716d3dbb2e2f8c94ac.otf",
+    "static/media/CanelaDeck-Light-Trial.otf": "/static/media/CanelaDeck-Light-Trial.b59eb0cbfac6326fbcce.otf",
+    "static/media/GT-America-Standard-Bold-Trial.otf": "/static/media/GT-America-Standard-Bold-Trial.b4825efe3efe64f3b2a6.otf",
+    "static/media/GT-America-Standard-Regular-Trial.otf": "/static/media/GT-America-Standard-Regular-Trial.f3ce2bb57f0dac202adb.otf",
+    "index.html": "/index.html",
+    "main.e99f3ff9.css.map": "/static/css/main.e99f3ff9.css.map",
+    "main.144b18e7.js.map": "/static/js/main.144b18e7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e99f3ff9.css",
+    "static/js/main.144b18e7.js"
+  ]
+}
